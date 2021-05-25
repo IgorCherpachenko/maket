@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(90deg, #121116 50%, #2a252b 0);
+    background-size: 300px 100%;
+}
+body {
+    justify-content: center 
+}
+.nav ul li{
+    float: left;
+}
+.nav ul li{
+    margin: 18px;
+}
